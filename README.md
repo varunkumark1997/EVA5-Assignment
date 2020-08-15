@@ -1,6 +1,6 @@
 # EVA5-Assignment
 this is the first neural network that we have worked on where we are trying to create Convolutional Neural Network (CNN) model to recognize the hand written digits for which we are using the MNIST dataset.
-
+We Have used Pytorch Library and written the Python code in Google Colab.
 The neural network architecture is as follows:
 
 1. input image size is 28 * 28
@@ -14,7 +14,7 @@ The neural network architecture is as follows:
 Features:
 
 1. the model has test accuracy of 95.5%
-2. the total parameters used in the models is less than 20k
+2. the total parameters used in the models is 19,450.
 3. the model does not contain fully connected layers.
 
 
