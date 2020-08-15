@@ -16,3 +16,9 @@ Features:
 1. the model has test accuracy of 95.5%
 2. the total parameters used in the models is less than 20k
 3. the model does not contain fully connected layers.
+
+
+
+Group members :
+Prashanth Gowda
+Varun Kumar
